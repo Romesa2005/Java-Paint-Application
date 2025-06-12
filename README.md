@@ -1,3 +1,4 @@
+# JavaFX Painting Program 🎨
 
 This project is a painting application developed in Java using JavaFX. It was created by a team of students following Agile software development practices, specifically Scrum. Through iterative development cycles, daily stand-ups, and consistent collaboration, the team delivered a user-friendly and feature-rich painting tool.
 
