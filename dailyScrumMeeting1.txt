@@ -1,0 +1,170 @@
+# Fill in, commit and push each day.
+Member name: Savana Melo   email: savana.melo@mail.utoronto.ca    utorid: melosava
+
+Oct 14,2024
+	What I did yesterday: nothing
+	What I will do today: nothing
+	Obstacles I face: none
+
+Oct 15,2024
+	What I did yesterday: worked in a different group.
+	What I will do today: worked in a different group.
+	Obstacles I face:
+
+Oct 16,2024
+	What I did yesterday: worked in a different group.
+	What I will do today: worked in a different group.
+	Obstacles I face:
+
+Oct 17,2024
+	What I did yesterday: worked in a different group.
+	What I will do today: worked in a different group.
+	Obstacles I face:
+
+Oct 18,2024
+	What I did yesterday: worked in a different group.
+	What I will do today: worked in a different group.
+	Obstacles I face:
+
+Oct 19,2024
+	What I did yesterday: worked in a different group.
+	What I will do today: Meet the group members, complete BUG1.002.
+	Obstacles I face: Not much time left.
+
+Oct 20,2024
+	What I did yesterday: Implemented BUG1.002.
+	What I will do today: Create the UML diagram and discuss the current architecture.
+	Obstacles I face: piazza posts left unanswered.
+
+Oct 21,2024
+	What I did yesterday: Submitted for the first sprint.
+	What I will do today: nothing.
+	Obstacles I face: Other courses needing my attention.
+
+Oct 22,2024
+	What I did yesterday: nothing.
+	What I will do today: nothing.
+	Obstacles I face: Other courses needing my attention.
+
+Oct 23,2024
+	What I did yesterday: nothing.
+	What I will do today: Begin working on US2.013 and US2.014.
+	Obstacles I face: Triangle point selection might be flawed - explore other
+	ways to update the points?
+
+Oct 24,2024
+	What I did yesterday: Began working on US2.013
+	What I will do today: finalize changes on US2.013 and complete US2.014
+	Obstacles I face:
+
+Oct 25,2024
+	What I did yesterday: finished US2.013 and US2.014
+	What I will do today: nothing.
+	Obstacles I face:
+
+Oct 26,2024
+	What I did yesterday: nothing.
+	What I will do today: nothing.
+	Obstacles I face:
+
+Oct 27,2024
+	What I did yesterday: nothing.
+	What I will do today: converse with group about remaining tasks for the sprint.
+	                        Submit sprint2.
+	Obstacles I face:
+
+Oct 28,2024
+	What I did yesterday: submitted sprint2.
+	What I will do today: nothing.
+	Obstacles I face:
+
+Oct 29,2024
+	What I did yesterday: nothing.
+	What I will do today: nothing.
+	Obstacles I face:
+
+Oct 30,2024
+	What I did yesterday: nothing.
+	What I will do today: nothing.
+	Obstacles I face:
+
+Oct 31,2024
+	What I did yesterday: nothing.
+	What I will do today: nothing.
+	Obstacles I face:
+
+Nov 1,2024
+	What I did yesterday: nothing.
+	What I will do today: Choosing my US and BUG for the sprint.
+	Obstacles I face: realized a bit too late there was a sprint over reading week.
+	                    Lots to work on in the project before the color US can
+	                    be added.
+
+Nov 2,2024
+	What I did yesterday: chose my US and BUG for the sprint.
+	What I will do today: Completed US3.005, completed some pull requests,
+	                       began working on BUG3.007
+	Obstacles I face:
+
+Nov 3,2024
+	What I did yesterday: completed my US3.005 and BUG3.007, did pull requests.
+	What I will do today: upkeep the product backlog, complete any outstanding
+	                       pull requests, submit for sprint3.
+	Obstacles I face:
+
+Nov 4,2024
+	What I did yesterday: submitted for sprint3.
+	What I will do today: brainstorm what US/BUGS to work on for the final sprint.
+	Obstacles I face:
+
+Nov 5,2024
+	What I did yesterday: brainstorming.
+	What I will do today: begin working on Textbox logic.
+	Obstacles I face:
+
+Nov 6,2024
+	What I did yesterday: began working on Textbox.
+	What I will do today: study for test in another class.
+	Obstacles I face:
+
+Nov 7,2024
+	What I did yesterday: studying.
+	What I will do today: work on save/open logic.
+	Obstacles I face:
+
+Nov 8,2024
+	What I did yesterday: worked on save/open logic.
+	What I will do today: study for test in another class.
+	Obstacles I face:
+
+Nov 9,2024
+	What I did yesterday: studying.
+	What I will do today: Finalize Textbox and implement it.
+	Obstacles I face:
+
+Nov 10,2024
+	What I did yesterday: Implemented Textbox.
+	What I will do today: Implement save/open Commands, pull requests, finalize
+	                       the project and submit.
+	Obstacles I face:
+
+Nov 11,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 12,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+

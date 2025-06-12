@@ -1,0 +1,76 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 2 Oct 20-Oct 27, 2024
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.008 : khanrom2 : Complete
+NAME     : Draw Square
+PRIORITY : 2
+ESTIMATE : 1 hour   ACTUAL :4 hours
+AS A     : user
+I WANT   : To click on one corner of a Square, drag, and release to
+                   specify two corners of a Square to be drawn in the current style.
+SO THAT  : I can add rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.009 : khanrom2 : Complete
+NAME     : Draw Square Feedback
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL :1 hour 30 mins
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the square in mid construction.
+SO THAT  : I can see the square I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.011 : murtuza5 : Complete
+NAME     : Draw Oval
+PRIORITY : 3
+ESTIMATE : 3 hours   ACTUAL : 3 hours
+AS A     : user
+I WANT   : to be able to draw an oval
+SO THAT  : I can add ovals into my drawing
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.012 : murtuza5 : Complete
+NAME     : Draw Oval Feedback
+PRIORITY : 3
+ESTIMATE : 1 hour          ACTUAL : 1 hour
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the oval in mid construction.
+SO THAT  : I can see the oval I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.013 : melosava : Complete
+NAME     : Draw Triangle
+PRIORITY : 2
+ESTIMATE : 3 hours   ACTUAL : 2 hours and 30 minutes
+AS A     : user
+I WANT   : click on the canvas to specify the starting point of the triangle, drag
+            the mouse to determine the height and release the mouse to indicate where
+            I want the triangle to end.
+SO THAT  : Triangles can be added to the canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.014 : melosava : Complete
+NAME     : Draw Triangle Feedback
+PRIORITY : 2
+ESTIMATE : 20 minutes   ACTUAL : 10 minutes
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the triangle in mid-construction.
+SO THAT  : I can see the triangle I am about to draw on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG2.003 : murtuza5 : Complete
+NAME     : Architecture behind choosing selection mode is poor
+PRIORITY : 3
+ESTIMATE : 1 day   ACTUAL : 1 day
+ISSUE    : Code is not modular and is difficult to expand. Need a better
+           architecture behind selecting a drawing mode, and handling
+           the drawing events. Consider some design patterns here.
+           Refactor ShapeChooserPanel and PaintPanel to get rid of the
+           'if' blocks in the PaintPanel mouse event code.
+--------------------------------------------------------------------------

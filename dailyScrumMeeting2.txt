@@ -1,0 +1,172 @@
+# Fill in, commit and push each day.
+Member name: Javeria Murtuza    email: j.murtuza@mail.utoronto.ca   utorid: murtuza5
+
+Oct 14,2024
+	What I did yesterday:
+	What I will do today: N/A
+	Obstacles I face:
+
+Oct 15,2024
+	What I did yesterday:
+	What I will do today: N/A
+	Obstacles I face:
+
+Oct 16,2024
+	What I did yesterday:
+	What I will do today: Added info to members.txt
+	Obstacles I face: For some reason, info was not syncing with other members. Even the TA was stumped.
+	                  Hopefully the issue doesn't happen again.
+
+Oct 17,2024
+	What I did yesterday:
+	What I will do today: Busy -- Economics exam on 19th, so was studying for that
+	Obstacles I face:
+
+Oct 18,2024
+	What I did yesterday:
+	What I will do today: Busy -- CSC258 assignments due
+	Obstacles I face:
+
+Oct 19,2024
+	What I did yesterday:
+	What I will do today: Busy -- Economics exam + 2 consecutive all nighters to catch up sleep for
+	Obstacles I face:
+
+Oct 20,2024
+	What I did yesterday:
+	What I will do today: I did BUG1.001. I was busy the last few days, and my team members finished
+	                      the rest of the work. I will try to be more active in working on this
+	                      assignment.
+	Obstacles I face:   Understanding how to construct image file paths and accessing images. Also almost
+	                    messed up and rewrote everything on the master branch. We were okay though!
+
+Oct 21,2024
+	What I did yesterday: Understood the code, UML, and BUG1.001
+	What I will do today: Take a look at BUG.003 and brainstorm ideas.
+	Obstacles I face: Lots of things have been implemented, so there is tons to take into account.
+
+Oct 22,2024
+	What I did yesterday: Drew up a few ideas to refactor the code.
+	What I will do today: Implement a Shape class.
+	Obstacles I face: Deciding the attributes and methods all shapes must have.
+
+Oct 23,2024
+	What I did yesterday: Implement a rough Shape class that needs to be improved.
+	What I will do today: Busy -- beast of an economics problem set due today.
+	Obstacles I face: I don't know what an Indifference Curve is.
+
+Oct 24,2024
+	What I did yesterday: Economics
+	What I will do today: Finish BUG.003.
+	Obstacles I face: Not finish BUG.003. I kept running into problems as I tried implementing an idea, then I would
+	                  step away to improve it or think of something new. Then I would have a lightbulb moment, and with
+	                  full confidence, attempt to implement it. Only for some other error.
+
+Oct 25,2024
+	What I did yesterday: Multiple attempts to refactor PaintPanel.
+	What I will do today: Busy -- term test for this course.
+	Obstacles I face: I hate javafx. I am also sleep deprived.
+
+Oct 26,2024
+	What I did yesterday: Study for the test.
+	What I will do today: Test then sleep.
+	Obstacles I face: Test.
+
+Oct 27,2024
+	What I did yesterday: The test and caught up with sleep.
+	What I will do today: Finish BUG.003 for real and update architecture.txt accordingly.
+	Obstacles I face: Fixing the errors. Actually, after hours of debugging, I went ahead and overwrote my code with an
+	                  older version out of frustration, then re-refactored.
+	                  I completed BUG.003, but the merge failed. The commit ID is
+                          880ac1b22993e322b22d602e4592862966a3395b.
+
+Oct 28,2024
+	What I did yesterday: Finish BUG.003.
+	What I will do today: Catch up with CSC236.
+	Obstacles I face: What is master theorem
+
+Oct 29,2024
+	What I did yesterday: Started with CSC236.
+	What I will do today: Start the CSC236 assignment.
+	Obstacles I face: What is master theorem
+
+Oct 30,2024
+	What I did yesterday: Started the CSC236 assignment.
+	What I will do today: Finish the CSC236 assignment.
+	Obstacles I face: What is master theorem
+
+Oct 31,2024
+	What I did yesterday: The CSC236 assignment.
+	What I will do today: Sleep.
+	Obstacles I face: Nothing hopefully.
+
+Nov 1,2024
+	What I did yesterday: Sleep.
+	What I will do today: An obstacle did, in fact, come up
+	Obstacles I face: Deal with the obstacle
+
+Nov 2,2024
+	What I did yesterday: Deal with the obstacle
+	What I will do today: As it turns out, there's still an issue with BUG2.003 so I'll work on that.
+	Obstacles I face: It took a lot of time.
+
+Nov 3,2024
+	What I did yesterday: BUG2.003
+	What I will do today: BUG3.004
+	Obstacles I face: not much, most of the work was done in BUG2.003 for this.
+
+Nov 4,2024
+	What I did yesterday: Actually finish BUG2.003
+	What I will do today: Study for STA256 test.
+	Obstacles I face: numbers
+
+Nov 5,2024
+	What I did yesterday: Study for STA256.
+	What I will do today: Attend lectures the whole day.
+	Obstacles I face: Maintain focus for 6 hours.
+
+Nov 6,2024
+	What I did yesterday: Attend lectures
+	What I will do today: Add to the product backlog
+	Obstacles I face: brainstorming
+
+Nov 7,2024
+	What I did yesterday: Add to product backlog
+	What I will do today: Add to product backlog
+	Obstacles I face: More bugs and user stories
+
+Nov 8,2024
+	What I did yesterday: Add to product backlog
+	What I will do today: Work on Polyline
+	Obstacles I face: Multistep, so it's nothing like before
+
+Nov 9,2024
+	What I did yesterday: Work on Polyline
+	What I will do today: Complete Polyline, and a bit of debugging
+	Obstacles I face: Not much
+
+Nov 10,2024
+	What I did yesterday: Complete Polyline
+	What I will do today: Complete a bunch of bugs and architecture
+	Obstacles I face: Time constraints
+
+Nov 11,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 12,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+

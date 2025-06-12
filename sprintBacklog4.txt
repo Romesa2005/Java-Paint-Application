@@ -1,0 +1,191 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 10, 2024
+# Sprint 4 Backlog UserStories go below
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.007 : khanrom2 : Complete
+NAME     : Line thickness selector
+PRIORITY : 3
+ESTIMATE :  1 hours   ACTUAL : 2 days
+AS A     : user
+I WANT   : To be able to select the current line thickness, to be applied
+           to subsequent shapes. Example:
+           		select fill style outline
+           		selects line thickness 1
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select line thickness 9
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two thinly outlined circles and a thinly outlined
+           	rectangle as well as two thickly outlined rectangles and a thick squiggle
+SO THAT  : the thickness of the line or outline can be chosen
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.006 : khanrom2 : Complete
+NAME     : Fill style selector
+PRIORITY : 3
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :
+AS A     : user
+I WANT   : To be able to select the current drawing style (filled or outline), to be applied
+           to subsequent shapes. Example:
+           		selects fill style solid
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select fill style outline
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two solid circles and a solid rectangle as well as
+           	two outlined rectangles and a squiggle
+SO THAT  : the user can choose the drawing style of the shape
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG3.008 : khanrom2 : Complete
+NAME     : REDO button in the Menu reverses the previous undo even if the
+           there has been a change to the canvas
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 20 mins
+ISSUE    : When Undo is pressed then a change has been done and then Redo is pressed
+           it reverses the undo even though there has been a change made to the canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.016 : murtuza5 : Completed
+NAME     : Add Polyline
+PRIORITY : 2
+ESTIMATE : 2 hour   ACTUAL : 4 hours
+AS A     : user
+I WANT   : To be able to draw a polyline
+SO THAT  : I can add polylines to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.017 : murtuza5 : NotStarted
+NAME     : Draw shape through Polyline
+PRIORITY : 2
+ESTIMATE : 1 hour   ACTUAL :
+AS A     : user
+I WANT   : To click so a corner of the shape is determined and then click
+           by setting the other corners of the shape and at the end click on
+           the first point
+SO THAT  : A polygon is made
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.018 : murtuza5 : NotStarted
+NAME     : Move shape
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL :
+AS A     : user
+I WANT   : to be able to select and move shapes
+SO THAT  : I can move shapes to different locations
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.010 : murtuza5 : Completed
+NAME     : Implement a Command design pattern
+PRIORITY : 1
+ESTIMATE : 5 hours   ACTUAL : 2 hours
+AS A     : developer
+I WANT   : a command design pattern for commands line cut, copy, paste,
+           undo, redo, etc.
+SO THAT  : I can easily implement more commands without having to change
+           the code a lot.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.011 : murtuza5 : Completed
+NAME     : Implement a Factory design pattern
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+AS A     : developer
+I WANT   : a properly implemented factory pattern for Shape
+SO THAT  : I can easily implement more shapes
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.012 : murtuza5 : NotStarted
+NAME     : Improve UX + UI
+PRIORITY : 3
+ESTIMATE : TBA hours   ACTUAL :
+AS A     : user
+I WANT   : a smooth UI and UX experience
+SO THAT  : I can use the app more easily
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.019 : melosava : Complete
+NAME     : Save Button
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 1 hour
+AS A     : user
+I WANT   : to save the current state of my Paint canvas as a .paint file.
+SO THAT  : it is saved to this repo.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.020 : melosava : Complete
+NAME     : Open Button
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 1 hour
+AS A     : user
+I WANT   : open a .paint file that is saved in this repo.
+SO THAT  : the canvas displays the image of the saved painting.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.021 : melosava : Complete
+NAME     : TextBox Shape
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 3 hours
+AS A     : user
+I WANT   : add an editable textbox to the canvas.
+SO THAT  : text i've entered is displayed on the canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.013 : khanrom2 : Complete
+NAME     : Order of shape is messed up when shape is being drawn
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 30 mins
+AS A     : user
+I WANT   : to fix the order of shapes being drawn
+SO THAT  : the shape that is being drawn is always at the top not underneath another shape
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.023 : khanrom2 : Completed
+NAME     : Polyline makes a shape if commected
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 4 hours
+AS A     : user
+I WANT   : to connect all the lines and make a shape
+SO THAT  : a shape is made with all the points
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.014 : melosava : Complete
+NAME     : Serialize data
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 10 minutes
+ISSUE    : Data used in the paint model needs to be serialized to implement the
+           save/open features
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.015 : melosava : Complete
+NAME     : Serializable Color
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 20 minutes
+ISSUE    : Colors cannot be serialized at the moment. Create a Serializable Color
+           in order to save the color of the shapes.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.022 : murtuza5 : NotStarted
+NAME     : Cut/Copy/Paste
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL :
+AS A     : user
+I WANT   : to be able to select, then cut/copy/paste a shape
+SO THAT  : I can add and remove older shapes
+--------------------------------------------------------------------------

@@ -1,0 +1,403 @@
+# User Stories/Bugs (add as appropriate), modify at each Sprint Planning Meeting
+# If a USER STORY is large, break it into smaller user stories.
+# For example: Draw Circle was split into two user stories US1.010 and US1.011
+# 
+# For example, the color chooser user story involves: 
+# 1 Color chooser UI (which could be a USER STORY)
+# 2 Implementation of selected color into the drawing stream.
+# 
+# The naming convention is USs.stp s is the sprint number this user story
+# appears in. s is the sprint that introduced the user story, 
+# t is a topic number, and p is the parts that the topic is
+# divided into (for larger user stories).
+#
+# Please change the status of the user story/bug to 
+#     NotStarted,InProgress, Incomplete,Complete
+# as appropriate.
+
+
+--------------------------------------------------------------------------
+
+
+
+# COMPLETED USER STORIES/BUGS BELOW ###########################################
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.001 : rosenbl6 : Complete
+NAME     : Draw Circle
+PRIORITY : 1
+ESTIMATE : 2 hours ACTUAL : 2 hours
+AS A     : user
+I WANT   : To click the center of the circle, drag, and release to specify
+           a circle to be drawn in the current style.
+SO THAT  : I can add circles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.002 : khanrom2 : Complete
+NAME     : Draw Circle Feedback
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+AS A     : user
+I WANT   : As a user is specifying a Circle, during the drag, a 'current'
+           circle should be on display. As the user drags, the 'current'
+           circle changes in real time so that a circle is drawn with
+           centre at users initial circle click, with radius out to
+           the current dragged mouse position.
+SO THAT  : I can see the circle I am about to build on release of the mouse
+           button.
+-------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.003 : khanrom2 : Complete
+NAME     : Draw Rectangle
+PRIORITY : 2
+ESTIMATE : 1 hour   ACTUAL : 4 hours
+AS A     : user
+I WANT   : To click on one corner of a rectangle, drag, and release to
+                   specify two corners of a rectangle to be drawn in the current style.
+SO THAT  : I can add rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US1.004 : khanrom2 : Complete
+NAME     : Draw Rectangle Feedback
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour 30 mins
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the rectangle in mid construction.
+SO THAT  : I can see the rectangle I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.005 : melosava : Complete
+NAME     : Color selector
+PRIORITY : 3
+ESTIMATE : 2 hours    ACTUAL : 2 hours
+AS A     : user
+I WANT   : To be able to select the current drawing color, to be applied
+           to subsequent shapes. Example:
+           		selects color red
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select color green
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two red circles and a red rectangle as well as
+           	two green rectangles and a green squiggle
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.006 : khanrom2 : Complete
+NAME     : Fill style selector
+PRIORITY : 3
+ESTIMATE : (1 hour, 2 hours, 4 hours, 1 day, 2 days, 4 days)    ACTUAL :
+AS A     : user
+I WANT   : To be able to select the current drawing style (filled or outline), to be applied
+           to subsequent shapes. Example:
+           		selects fill style solid
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select fill style outline
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two solid circles and a solid rectangle as well as
+           	two outlined rectangles and a squiggle
+SO THAT  : the user can choose the drawing style of the shape
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.007 : khanrom2 : Complete
+NAME     : Line thickness selector
+PRIORITY : 3
+ESTIMATE :  1 hours   ACTUAL : 2 days
+AS A     : user
+I WANT   : To be able to select the current line thickness, to be applied
+           to subsequent shapes. Example:
+           		select fill style outline
+           		selects line thickness 1
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select line thickness 9
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two thinly outlined circles and a thinly outlined
+           	rectangle as well as two thickly outlined rectangles and a thick squiggle
+SO THAT  : the thickness of the line or outline can be chosen
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.008 : khanrom2 : Complete
+NAME     : Draw Square
+PRIORITY : 2
+ESTIMATE : 1 hour   ACTUAL :4 hours
+AS A     : user
+I WANT   : To click on one corner of a Square, drag, and release to
+                   specify two corners of a Square to be drawn in the current style.
+SO THAT  : I can add rectangles to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.009 : khanrom2 : Complete
+NAME     : Draw Square Feedback
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL :1 hour 30 mins
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the square in mid construction.
+SO THAT  : I can see the square I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.010 : khanrom2: Complete
+NAME     : Undo Button
+PRIORITY : 2
+ESTIMATE : 1  hour     ACTUAL : 20 mins
+AS A     : user
+I WANT   : Click the Undo button from the Menu
+SO THAT  : The last shape I drew is removed from the Canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.011 : murtuza5 : Complete
+NAME     : Draw Oval
+PRIORITY : 3
+ESTIMATE : 3 hours          ACTUAL : 3 hours
+AS A     : user
+I WANT   : to be able to draw an oval
+SO THAT  : I can add ovals into my drawing
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.012 : murtuza5 : Complete
+NAME     : Draw Oval Feedback
+PRIORITY : 3
+ESTIMATE : 1 hour          ACTUAL : 1 hour
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the oval in mid construction.
+SO THAT  : I can see the oval I am about to build on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.013 : melosava : Complete
+NAME     : Draw Triangle
+PRIORITY : 2
+ESTIMATE : 3 hours   ACTUAL : 2 hours and 30 minutes
+AS A     : user
+I WANT   : click on the canvas to specify the starting point of the triangle, drag
+            the mouse to determine the height and release the mouse to indicate where
+            I want the triangle to end.
+SO THAT  : Triangles can be added to the canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US2.014 : melosava : Complete
+NAME     : Draw Triangle Feedback
+PRIORITY : 2
+ESTIMATE : 20 minutes   ACTUAL : 10 minutes
+AS A     : user
+I WANT   : Similarly to Draw Circle Feedback, display the triangle in mid-construction.
+SO THAT  : I can see the triangle I am about to draw on release of the mouse button.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.015 : khanrom2: Complete
+NAME     : Redo Button
+PRIORITY : 2
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+AS A     : user
+I WANT   : Click the Redo button from the Menu
+SO THAT  : The last shape I undid reappears
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.016 : murtuza5 : Completed
+NAME     : Add Polyline
+PRIORITY : 2
+ESTIMATE : 2 hour   ACTUAL : 4 hours
+AS A     : user
+I WANT   : To be able to draw a polyline
+SO THAT  : I can add polylines to my canvas
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.019 : melosava : Complete
+NAME     : Save Button
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 1 hour
+AS A     : user
+I WANT   : to save the current state of my Paint canvas as a .paint file.
+SO THAT  : it is saved to this repo.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.020 : melosava : Complete
+NAME     : Open Button
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 1 hour
+AS A     : user
+I WANT   : open a .paint file that is saved in this repo.
+SO THAT  : the canvas displays the image of the saved painting.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.021 : melosava : Complete
+NAME     : TextBox Shape
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL : 3 hours
+AS A     : user
+I WANT   : add an editable textbox to the canvas.
+SO THAT  : text i've entered is displayed on the canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG1.001 : murtuza5 : Complete
+NAME     : Icons instead of text for drawing mode selection
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : Would be nice to have icons instead of "Circle", "Rectangle", ...
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG1.002 : melosava : Complete
+NAME     : Drawing selection mode not indicated
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : Currently, you can't tell which mode "Circle", "Rectangle", ...
+           is currently selected. Is there a way
+           to highlight the currently selected mode?
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG2.003 : murtuza5 : Complete
+NAME     : Architecture behind choosing selection mode is poor
+PRIORITY : 3
+ESTIMATE : 1 day    ACTUAL : 1 day
+ISSUE    : Code is not modular and is difficult to expand. Need a better
+           architecture behind selecting a drawing mode, and handling
+           the drawing events. Consider some design patterns here.
+           Refactor ShapeChooserPanel and PaintPanel to get rid of the
+           'if' blocks in the PaintPanel mouse event code.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG3.004 : murtuza5 : Complete
+NAME     : Architecture behind Model is poor
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+ISSUE    : Having a list of different types of drawable things in the
+           model is cumbersome. In fact, it is currently incorrect, with
+           Squiggle's not drawing properly. Need to re-architect the Model
+           so that it is more flexible, and easier to work with.
+           Consider some design patterns, or change of responsibility
+           here.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG1.005 : khanrom2 : Complete
+NAME     : Squiggle is broken
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 20 mins
+ISSUE    : Squiggles are connected to each other by a straight line. Each drag
+                   of the mouse should be a separate squiggle. Possibly
+           the issue is with the representation of the squiggles in the Model.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG1.006 : khanrom2 : Complete
+NAME     : Circle drawing is broken
+PRIORITY : 1
+ESTIMATE : 2 hour    ACTUAL : 2 hour 30 mins
+ISSUE    : The first click should specify the center of the circle, with
+           a drag for the radius. This is not the case in the current
+           implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG3.007 : melosava : Complete
+NAME     : New button in the Menu is broken
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 20 mins
+ISSUE    : When 'New' is selected from the Menu a new blank Canvas should open,
+           closing the previous one.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG3.008 : khanrom2 : Complete
+NAME     : REDO button in the Menu reverses the previous undo even if the
+           there has been a change to the canvas
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 20 mins
+ISSUE    : When Undo is pressed then a change has been done and then Redo is pressed
+           it reverses the undo even though there has been a change made to the canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.009 : melosava : Completed
+NAME     : Add documentation
+PRIORITY : 2
+ESTIMATE : 10 mins   ACTUAL : 10 mins
+AS A     : developer
+I WANT   : to have comments in the code explaining it
+SO THAT  : I can follow along while skimming and be able to add more
+           features without breaking anything.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.010 : murtuza5 : Completed
+NAME     : Implement a Command design pattern
+PRIORITY : 1
+ESTIMATE : 5 hours   ACTUAL : 2 hours
+AS A     : developer
+I WANT   : a command design pattern for commands line cut, copy, paste,
+           undo, redo, etc.
+SO THAT  : I can easily implement more commands without having to change
+           the code a lot.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.011 : murtuza5 : Completed
+NAME     : Implement a Factory design pattern
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+AS A     : developer
+I WANT   : a properly implemented factory pattern for Shape
+SO THAT  : I can easily implement more shapes
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.013 : khanrom2 : Complete
+NAME     : Order of shape is messed up when shape is being drawn
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 30 mins
+AS A     : user
+I WANT   : to fix the order of shapes being drawn
+SO THAT  : the shape that is being drawn is always at the top not underneath another shape
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.014 : melosava : Complete
+NAME     : Serialize data
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 10 minutes
+ISSUE    : Data used in the paint model needs to be serialized to implement the
+           save/open features
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG4.015 : melosava : Complete
+NAME     : Serializable Color
+PRIORITY : 3
+ESTIMATE : 1 hour   ACTUAL : 20 minutes
+ISSUE    : Colors cannot be serialized at the moment. Create a Serializable Color
+           in order to save the color of the shapes.
+--------------------------------------------------------------------------
+
+
+
+
+
+
+# OMITTED USER STORIES/BUGS BELOW   ###########################################
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.017 : murtuza5 : NotStarted
+NAME     : Draw shape through Polyline
+PRIORITY : 2
+ESTIMATE : 1 hour   ACTUAL :
+AS A     : user
+I WANT   : To click so a corner of the shape is determined and then click
+           by setting the other corners of the shape and at the end click on
+           the first point
+SO THAT  : A polygon is made
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US4.018 : murtuza5 : NotStarted
+NAME     : Move shape
+PRIORITY : 2
+ESTIMATE : 2 hours   ACTUAL :
+AS A     : user
+I WANT   : to be able to select and move shapes
+SO THAT  : I can move shapes to different locations
+--------------------------------------------------------------------------

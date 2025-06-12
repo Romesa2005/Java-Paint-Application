@@ -1,0 +1,81 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 3 Oct 27-Nov 03, 2024
+# Sprint 3 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.010 : khanrom2: Complete
+NAME     : Undo Button
+PRIORITY : 2
+ESTIMATE : 1  hour     ACTUAL : 20 mins
+AS A     : user
+I WANT   : Click the Undo button from the Menu
+SO THAT  : The last shape I drew is removed from the Canvas.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.015 : khanrom2: NotStarted
+NAME     : Redo Button
+PRIORITY : 2
+ESTIMATE :  1 hour    ACTUAL : 40 mins
+AS A     : user
+I WANT   : Click the Redo button from the Menu
+SO THAT  : The last shape I undid reappears
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY US3.005 : melosava : Complete
+NAME     : Color selector
+PRIORITY : 3
+ESTIMATE : 2 hours    ACTUAL : 2 hours
+AS A     : user
+I WANT   : To be able to select the current drawing color, to be applied
+           to subsequent shapes. Example:
+           		selects color red
+           		mode circle
+           		draw a circle
+           		draw a circle
+           		mode rectangle
+           		draw a rectangle
+           		select color green
+           		draw a rectangle
+           		draw a rectangle
+           		select mode squiggle
+           		draw a squiggle
+           	results in two red circles and a red rectangle as well as
+           	two green rectangles and a green squiggle
+SO THAT  :
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG2.003 : murtuza5 : Complete
+NAME     : Architecture behind choosing selection mode is poor
+PRIORITY : 3
+ESTIMATE : 6 hours    ACTUAL : 6 hours
+ISSUE    : Code is not modular and is difficult to expand. Need a better
+           architecture behind selecting a drawing mode, and handling
+           the drawing events. Consider some design patterns here.
+           Refactor ShapeChooserPanel and PaintPanel to get rid of the
+           'if' blocks in the PaintPanel mouse event code.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG3.004 : murtuza5 : Complete
+NAME     : Architecture behind Model is poor
+PRIORITY : 3
+ESTIMATE : 1 hours    ACTUAL : 1 hour
+ISSUE    : Having a list of different types of drawable things in the
+           model is cumbersome. In fact, it is currently incorrect, with
+           Squiggle's not drawing properly. Need to re-architect the Model
+           so that it is more flexible, and easier to work with.
+           Consider some design patterns, or change of responsibility
+           here.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG BUG3.007 : melosava : Complete
+NAME     : New button in the Menu is broken
+PRIORITY : 3
+ESTIMATE : 1 hour    ACTUAL : 20 mins
+ISSUE    : When 'New' is selected from the Menu a new blank Canvas should open,
+           closing the previous one.
+--------------------------------------------------------------------------
+

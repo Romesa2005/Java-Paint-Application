@@ -1,0 +1,166 @@
+# Fill in, commit and push each day.
+Member name: Romesa Khan      email: rms.khan@mail.utoronto.ca    utorid: khanrom2
+
+Oct 14,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 15,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 16,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Oct 17,2024
+	What I did yesterday:
+	What I will do today: I joined the group and filled out members.txt
+	Obstacles I face: Working on a file with another group member for the first time
+
+Oct 18,2024
+	What I did yesterday: I joined the group and filled out members.txt
+	What I will do today:I sent requests to my group members. I started the project by choosing
+	    user stories and bugs, and starting them
+	Obstacles I face: They did not respond and I had to work with no communication to them
+
+Oct 19,2024
+	What I did yesterday:I sent requests to my group members. I started the project by choosing
+        user stories and bugs, and starting them
+	What I will do today: I completed the bug, and tried finishing the user story assigned to me
+	Obstacles I face: For the Rectangle Feedback, I was having problems getting feedback
+	        when the user dragged to the left or up
+
+Oct 20,2024
+	What I did yesterday:  I completed the bug, and tried finishing the user story assigned to me
+	What I will do today: I completed bug because I am in a group of 3
+	Obstacles I face: I have trouble drawing the squiggles properly
+
+Oct 21,2024
+	What I did yesterday: I completed bug because I am in a group of 3
+	What I will do today: Look over sprint2
+	Obstacles I face: Understanding some of the user stories
+
+Oct 22,2024
+	What I did yesterday: Look over sprint2
+	What I will do today: Discuss which one of us will be the product owner
+	Obstacles I face: None
+
+Oct 23,2024
+	What I did yesterday:Discuss which one of us will be the product owner
+	What I will do today: I became the product owner and will move some user stories to the sprintBacklog2
+	Obstacles I face: Deciding which user stories and bugs to move
+
+Oct 24,2024
+	What I did yesterday: I became the product owner and moved some user stories to the sprintBacklog2
+	What I will do today: Split the work up and start working on square
+	Obstacles I face: None
+
+Oct 25,2024
+	What I did yesterday: Split the work up and started working on square
+	What I will do today: Start working on making the square
+	Obstacles I face: None
+
+Oct 26,2024
+	What I did yesterday: finish on square
+	What I will do today: Started on the square feedback
+	Obstacles I face: did not properly implement square and removed the square class and instead used the rectangle class
+
+Oct 27,2024
+	What I did yesterday:Started on the square feedback
+	What I will do today: Finished on square feedback
+	Obstacles I face: None
+
+Oct 28,2024
+	What I did yesterday: Finished square feedback
+	What I will do today: We will do our meeting to figure out who the product owner is
+	Obstacles I face: None
+
+Oct 29,2024
+	What I did yesterday:We did our meeting to figure out who the product owner is
+	What I will do today: We will split the user stories and bugs
+	Obstacles I face: None
+
+Oct 30,2024
+	What I did yesterday:We split the user stories and bugs
+	What I will do today: look over my user stories and bugs
+	Obstacles I face: None
+
+Oct 31,2024
+	What I did yesterday: looked over my user stories and bugs.
+	What I will do today: Start working on the bug which was to fix why rectangle was not working.
+	Obstacles I face: I learned how to debug while running an application. It was a bit of a challenge.
+
+Nov 1,2024
+	What I did yesterday: Started working on the bug which was to fix why rectangle was not working.
+	What I will do today: Finished the bug and started on my user story on the undo button
+	Obstacles I face:None
+
+Nov 2,2024
+	What I did yesterday:Finished the bug and started on my user story on the undo button
+	What I will do today: will Finish the undo  button and add a user story for redo button
+	Obstacles I face: Figuring out the implementation for redo was difficult.
+
+Nov 3,2024
+	What I did yesterday:Finished the undo  button and add a user story for redo button
+	What I will do today: Completed the user stories and finished this sprint
+	Obstacles I face: None
+
+Nov 4,2024
+	What I did yesterday: Completed the user stories and finished this sprint
+	What I will do today: Look over sprint 4
+	Obstacles I face: None
+
+Nov 5,2024
+	What I did yesterday: Look over sprint 4
+	What I will do today: Fix some bugs from the previous sprint.
+	Obstacles I face:None
+
+Nov 6,2024
+	What I did yesterday: fixed some bugs from previous sprints
+	What I will do today: Worked on line thickness
+	Obstacles I face:
+
+Nov 7,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 8,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 9,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 10,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 11,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 12,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 13,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 14,2024
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
